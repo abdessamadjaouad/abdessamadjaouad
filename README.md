@@ -19,7 +19,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,py,js,mysql,postgres,docker,hadoop,vscode,git,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,py,js,mysql,postgres,docker,vscode,git,linux" alt="Tech Stack" />
 </p>
 
 ---
