@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Abdessamad JAOUAD</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&pause=1000&color=1976D2&center=true&vCenter=true&width=435&lines=Full-stack+developer+%7C+Data+Engineer;Master's+Student+%40+ENSAM+Casablanca;Lifelong+Learner+%F0%9F%93%9A+%7C+Software+Creator+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=24&pause=1000&color=1976D2&center=true&vCenter=true&width=435&lines=Full-stack+developer+%7C+Data+Engineer;Master's+Student+%40+ENSAM+Casablanca;__Lifelong+Learner+%F0%9F%93%9A+%7C+Software+Creator+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
